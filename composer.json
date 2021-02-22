@@ -1,5 +1,5 @@
 {
-  "name": "ikarus/sps-raspberry-pi-ina219",
+  "name": "ikarus/sps-ina219",
   "license": "BSD-3-Clause",
   "authors": [
     {
@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Ikarus\\SPS\\Raspberry\\Adafruit\\" : "src"
+      "Ikarus\\SPS\\Adafruit\\" : "src"
     }
   },
   "require" : {

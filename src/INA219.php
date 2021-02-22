@@ -32,7 +32,7 @@
  *
  */
 
-namespace Ikarus\SPS\Raspberry\Adafruit;
+namespace Ikarus\SPS\Adafruit;
 
 use TASoft\Bus\I2C;
 
