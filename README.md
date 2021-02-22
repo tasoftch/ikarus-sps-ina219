@@ -4,5 +4,5 @@ Helper class to work with the current and voltage measure unit ina219.
 
 ### Installation
 ```bin
-$ composer require ikarus/sps-raspberry-pi-ina219
+$ composer require ikarus/sps-ina219
 ```
